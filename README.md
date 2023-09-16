@@ -1,7 +1,7 @@
 # Fuber - Taxi booking App UI!
 
-Hi! This is the clone to the App based Taxi booking Services like Uber using  Flutter and [Provider](https://github.com/rrousselGit/provider) as a state management in it. Its unstable and i wont be maintaining it. You can find some usefull methods inside it, some of them are used as answeres on [stackoverflow](https://stackoverflow.com/search?tab=newest&q=user:7910735%20%5Bflutter%5D) by me, releated to maps in flutter.
-You can also learn about maintaining the Complex UI on single screen and animations and there visibility using Provider.
+Hi! This is the clone to the App based Taxi booking Services like Uber using  Flutter as a state management in it. Its unstable and i wont be maintaining it.
+You can learn about maintaining the Complex UI on single screen and animations and there visibility using Provider.
 
 
 ### Some Known issues and there solutions.
@@ -52,6 +52,6 @@ limitations under the License.
 ```
 
 ## Author & support
-This project is created by [Sahdeep Singh](https://github.com/iamSahdeep) but with lots of support and help.
+This project is created by [Arthur Briggs](https://github.com/arthurbriggs8888) but with lots of support and help.
 
 Made with <img src="https://cdn-images-1.medium.com/max/1200/1*2yFbiGdcACiuLGo4dMKmJw.jpeg" width="90" height="35">
